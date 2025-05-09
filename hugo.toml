@@ -1,0 +1,4 @@
+baseURL = 'https://peezsite.org/'
+languageCode = 'en-us'
+title = 'My own BitAcademy site'
+theme = 'ananke'
