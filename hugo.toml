@@ -1,4 +1,4 @@
 baseURL = 'https://peezsite.org/'
 languageCode = 'en-us'
-title = 'My own BitAcademy site'
+title = 'Welkom bij mijn Hugo site!'
 theme = 'ananke'
