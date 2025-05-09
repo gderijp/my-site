@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welkom bij mijn Hugo site!</title>
-    <link>https://peezsite.org/</link>
-    <description>Recent content on Welkom bij mijn Hugo site!</description>
+    <title>Giorgio&#39;s website!</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Giorgio&#39;s website!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://peezsite.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://peezsite.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://peezsite.org/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Netlify Deployments</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;h3 id=&#34;contents&#34;&gt;Contents&lt;/h3&gt;&#xA;&lt;p&gt;Netlify Deployments zijn een manier om websites en webapplicaties eenvoudig en automatisch online te zetten via het Netlify-platform. Wanneer je code pusht naar een gekoppelde Git-repository (zoals GitHub, GitLab of Bitbucket), voert Netlify automatisch een build uit en publiceert de nieuwe versie van je site. Elke deployment is voorzien van een unieke URL, zodat je wijzigingen kunt testen vóór livegang. Dit maakt Netlify ideaal voor continuous deployment en snelle iteratie binnen moderne web development workflows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Starting a blog</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Het starten van een blog is een toegankelijke en creatieve manier om je ideeën, ervaringen of expertise met de wereld te delen. Begin met het kiezen van een onderwerp dat je aanspreekt en waar je consistent over kunt schrijven. Vervolgens kies je een geschikt platform, zoals WordPress of Blogger, en geef je je blog een pakkende naam en een aantrekkelijke lay-out. Regelmatig schrijven en waardevolle content bieden zijn de sleutel tot het opbouwen van een betrokken lezerspubliek. Met geduld, authenticiteit en doorzettingsvermogen kan je blog uitgroeien tot een inspirerende en invloedrijke plek op het internet.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

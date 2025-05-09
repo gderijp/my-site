@@ -1,4 +1,4 @@
 baseURL = 'https://peezsite.org/'
 languageCode = 'en-us'
-title = 'Welkom bij mijn Hugo site!'
+title = "Giorgio's website!"
 theme = 'ananke'
